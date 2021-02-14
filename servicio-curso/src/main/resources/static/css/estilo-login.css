@@ -1,0 +1,20 @@
+body{
+  display: flex;
+  flex-direction: row;
+  background: #888888;
+  height: 500px;
+  
+}
+.caja-formulario{
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #bf6b6b;
+}
+form{
+  width: 100%;
+  background: #67b585;
+}
+input{
+  display: block;
+}
